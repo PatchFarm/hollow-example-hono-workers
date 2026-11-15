@@ -171,10 +171,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@cloudflare/workers-types@npm:5.20261107.1":
-  version: 5.20261107.1
-  resolution: "@cloudflare/workers-types@npm:5.20261107.1"
-  checksum: 10c0/4c4183dd54c1def099c5efb60935b0a14ae018d946d297199880a719b946aabb332b083e0ef56fe666e79827733943f3b476e6edf157dbba0089cb9cf0f891ee
+"@cloudflare/workers-types@npm:5.20261108.1":
+  version: 5.20261108.1
+  resolution: "@cloudflare/workers-types@npm:5.20261108.1"
+  checksum: 10c0/e02b8f8a7813a90b495852f9771a23ea1c92d4199aaf770711d4c2d2306084ce92a967db59810f3ca72ed871970886766db70e0ef846d3e69f8571734e85486e
   languageName: node
   linkType: hard
 
@@ -1302,7 +1302,7 @@ __metadata:
   resolution: "hollow-example-hono-workers@workspace:."
   dependencies:
     "@biomejs/biome": "npm:2.6.6"
-    "@cloudflare/workers-types": "npm:5.20261107.1"
+    "@cloudflare/workers-types": "npm:5.20261108.1"
     hono: "npm:4.13.17"
     typescript: "npm:7.0.2"
     vite: "npm:8.3.6"
